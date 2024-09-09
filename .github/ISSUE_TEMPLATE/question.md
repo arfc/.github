@@ -20,3 +20,6 @@ understand your question or discussion topic.
 
 Add any other context, reference links, or screenshots about the question or discussion 
 topic here.
+
+# How can this issue be closed?
+
