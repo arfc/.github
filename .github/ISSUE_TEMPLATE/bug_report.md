@@ -7,25 +7,27 @@ assignees: ''
 
 ---
 
-# Describe the bug
+# Describe the bug.
 
 A clear and concise description of what the bug is.
 
-# To reproduce
+# Steps to reproduce the bug.
 
-Steps to reproduce the behavior:
+Steps to reproduce the behavior (ideally as a minimum example of where the failure is coming from):
 1. Outline what you did.
 
-## Inputs and Outputs
+## What inputs and outputs are involved?
 
 If applicable, add what you ran or received to help explain your problem.
+If there are relavent configuration files, please provide those as well.
 
-## Additional replication details
+## Are there additional replication details?
 
  - Operating System:
- - Version:
+ - Software Version:
+ - Python Version: 
 
-# Expected behavior
+# What is the expected behavior?
 
 A clear and concise description of what you expected to happen.
 
