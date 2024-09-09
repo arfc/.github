@@ -7,14 +7,16 @@ assignees: ''
 
 ---
 
-## Question or Discussion Topic
+# Question or discussion topic.
 
 Please describe your question or the topic you want to discuss.
 
-## Details
+## Provide details.
 
-Provide any relevant details, context, or background information that might help others understand your question or discussion topic.
+Provide any relevant details, context, or background information that might help others 
+understand your question or discussion topic.
 
-## Additional Context
+## External context or references.
 
-Add any other context or screenshots about the question or discussion topic here.
+Add any other context, reference links, or screenshots about the question or discussion 
+topic here.
