@@ -1,7 +1,7 @@
 ---
 name: Question or Discussion
 about: Ask a question or start a discussion about this project
-title: "[QUESTION] "
+title: "[Question] "
 labels: 'Status:1-New, Type:Question'
 assignees: ''
 
@@ -23,3 +23,4 @@ topic here.
 
 # How can this issue be closed?
 
+Identify people related to this discussion, appropriate tags, and projects in the group org.

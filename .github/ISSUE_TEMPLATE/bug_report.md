@@ -9,11 +9,11 @@ assignees: ''
 
 # Describe the bug.
 
-A clear and concise description of what the bug is.
+A clear description of what the bug is, with code blocks wherever possible.
 
 # Steps to reproduce the bug.
 
-Steps to reproduce the behavior (ideally as a minimum example of where the failure is coming from):
+Steps to reproduce the behavior (ideally as a minimum example of where the failure is coming from with code blocks for error messages and inputs):
 1. Outline what you did.
 
 ## What inputs and outputs are involved?
@@ -29,7 +29,7 @@ If there are relavent configuration files, please provide those as well.
 
 # What is the expected behavior?
 
-A clear and concise description of what you expected to happen.
+A clear description of what you expected to happen.
 
 # Additional context.
 
@@ -37,3 +37,4 @@ Add any other context about the problem here.
 
 # How can this issue be closed?
 
+Identify people related to this discussion, appropriate tags, and projects in the group org.
