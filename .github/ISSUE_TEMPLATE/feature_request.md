@@ -25,7 +25,4 @@ Add any other context or code blocks about the feature request here.
 
 # How can this issue be closed?
 
-
-# How can this issue be closed?
-
 Identify people related to this discussion, appropriate tags, and projects in the group org.
