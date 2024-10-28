@@ -19,7 +19,7 @@ Steps to reproduce the behavior (ideally as a minimum example of where the failu
 ## What inputs and outputs are involved?
 
 If applicable, add what you ran or received to help explain your problem.
-If there are relavent configuration files, please provide those as well.
+If there are relevant configuration files, please provide those as well.
 
 ## Are there additional replication details?
 
