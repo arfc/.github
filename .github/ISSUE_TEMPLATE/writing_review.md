@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 # Review Details
+<!-- Review guide for requesting a review: https://arfc.github.io/manual/guides/katy/revreq -->
+
 **Submission Deadline**: <!-- indicate if self-imposed or external -->
 
 **Intended Venue**:
