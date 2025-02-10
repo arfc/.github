@@ -9,8 +9,6 @@ assignees: ''
 # Review Details
 <!-- Review guide for requesting a review: https://arfc.github.io/manual/guides/katy/revreq. -->
 
-**Submission Deadline**: <!-- Indicate if self-imposed or external. -->
-
 **Intended Venue**:
 
 **Link to pdf**:
@@ -23,7 +21,7 @@ assignees: ''
 
 
 ## What is the pre-discussed timeline?
-
+<!-- Make sure to indicate all deadlines and note whether they are required. -->
 
 
 ## Previous reviews.
