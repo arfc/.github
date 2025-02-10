@@ -35,3 +35,4 @@ assignees: ''
 # How can this issue be closed?
 
 <!-- Identify people related to this discussion, appropriate tags, and projects in the group org. -->
+This issue can be closed when feedback has been incorporated or discussed.
