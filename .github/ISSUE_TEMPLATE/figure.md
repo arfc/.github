@@ -19,7 +19,7 @@ assignees: ''
 # How can this issue be closed?
 Issue can be closed when the following criteria has been met:
 - [ ] Figure is completely modular and all files necessary for generation and inclusion are confined to a single file or directory.
-- [ ] Includes a caption that is standalone and ends with correct puncuation.
+- [ ] Includes a caption that is standalone and ends with correct punctuation.
 - [ ] Includes a legend.
 - [ ] All text in the figure is large enough to be easily read.
 - [ ] Has a label (use `\label{}`)
