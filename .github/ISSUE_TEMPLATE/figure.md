@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 # Description
-<!-- Describe what you want made. What is the image intended to show? -->
+<!-- Describe the figure. What is the image intended to show? -->
 
 # Method
 <!-- How will the figure be produced? ex. TikZ, Python -->
