@@ -20,7 +20,7 @@ assignees: ''
 Issue can be closed when the following criteria has been met:
 - [ ] Figure is completely modular and all files necessary for generation and inclusion are confined to a single file or directory.
 - [ ] Includes a caption that is standalone and ends with correct punctuation.
-- [ ] Includes a legend.
+- [ ] Includes a legend (if needed).
 - [ ] All text in the figure is large enough to be easily read.
 - [ ] Has a label (use `\label{}`)
 - [ ] Are your color choices appropriate for [adequate accessibility](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html#the-color-scales)? 
