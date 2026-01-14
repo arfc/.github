@@ -23,4 +23,4 @@ Issue can be closed when the following criteria has been met:
 - [ ] Includes a legend.
 - [ ] All text in the figure is large enough to be easily read.
 - [ ] Has a label (use `\label{}`)
-- [ ] Are your color choices appropriate for adequate accessibility? 
+- [ ] Are your color choices appropriate for [adequate accessibility](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html#the-color-scales)? 
